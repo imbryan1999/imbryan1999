@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imbryan1999
 - 👀 A Software Developer
-- 🌱 Currently working on Android & Flutter
+- 🌱 Currently working on Flutter/React Native
 
 <!---
 imbryan1999/imbryan1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
